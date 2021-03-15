@@ -2331,7 +2331,11 @@ input, select, textarea {
 			border-radius: 4px;
 			display: block;
 		}
-
+		.image img2 {
+			border-radius: 4px;
+			display: block;
+			max-width: 100%				
+		}
 		.image.left, .image.right {
 			max-width: 100%;
 		}
