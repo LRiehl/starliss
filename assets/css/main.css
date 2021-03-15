@@ -2334,7 +2334,7 @@ input, select, textarea {
 		.image img2 {
 			border-radius: 4px;
 			display: block;
-			width: 1.5em				
+			width: 1em				
 		}
 		.image.left, .image.right {
 			max-width: 100%;
