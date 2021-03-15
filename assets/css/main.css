@@ -2331,12 +2331,7 @@ input, select, textarea {
 			border-radius: 4px;
 			display: block;
 		}
-		.image img2 {
-			border-radius: 4px;
-			display: block;
-			max-width: 30%;
-    			height: auto;
-		}
+		
 		.image.left, .image.right {
 			max-width: 100%;
 		}
@@ -2384,6 +2379,15 @@ input, select, textarea {
 				}
 
 			}
+
+/*img2*/
+
+img2 {
+			border-radius: 4px;
+			display: block;
+			max-width: 30%;
+    			height: auto;
+		}
 
 /* Table */
 
